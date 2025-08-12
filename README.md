@@ -7,7 +7,6 @@ building from basics to advanced concepts, and sharing all examples for others t
 **Learning Plan:**
 
 **Day 1: Setup & Basics**
-* Create this GitHub repository.
 * Install Python 3.10+ (if running locally, skip if only using GitHub web editor).
 * Learn Python basics (variables, data types, functions).
 * Create day1_basics.py with:

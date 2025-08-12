@@ -5,9 +5,6 @@ building from basics to advanced concepts, and sharing all examples for others t
 
 **Learning Plan:**
 
-**Day 1: Setup & Basics**
-*# Agentic AI with Python – Step by Step
-
 ### Day 1 – Setup & First Program
 - Installed Python 3.11
 - Installed Git

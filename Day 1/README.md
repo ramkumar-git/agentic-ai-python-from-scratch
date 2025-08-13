@@ -17,6 +17,7 @@
 
 #### 2. Set up Python Environment
 - Install Python (latest version recommended: **3.x**).
+  - https://www.python.org/downloads/
 - Install a text editor or IDE:
   - [VS Code](https://code.visualstudio.com/)
   - [PyCharm](https://www.jetbrains.com/pycharm/)

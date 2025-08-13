@@ -1,44 +1,39 @@
 # Agentic AI in Python — Step-by-Step Learning & Implementation
 
-This repository documents my **day-by-day journey** to mastering **Agentic AI in Python**, starting from the basics of Python and progressing to advanced concepts.  
-It includes **clear examples, exercises, and implementation steps** so others can follow along and learn.
+This repository documents my **day-by-day journey** to mastering **Agentic AI in Python**.  
+I’m starting from the very basics and moving toward advanced concepts — sharing all examples so others can learn along with me.
 
 ---
 
-## 📌 Learning Plan — Objectives
+## 📅 Day 1: Python Basics — Introduction and Setup
 
-- Understand **what Python is** and why it's used for AI.
-- Set up a **Python development environment** on your computer.
+### 🎯 Objectives
+- Understand **what Python is** and why it’s used for AI.
+- **Set up** Python environment on your computer.
 - Learn **Python syntax basics**: variables, data types, input/output, and simple operations.
 - Write your **first Python program**.
-- Progress step-by-step toward **Agentic AI** concepts and implementations.
 
 ---
 
-## 🧩 Topics & Steps
+### 📖 Topics & Steps
 
-### 1️⃣ What is Python?
-- A **versatile**, beginner-friendly programming language.
+#### 1. What is Python?
+- A versatile, beginner-friendly programming language.
 - Widely used for **AI** and **machine learning** projects.
-- An **interpreted** language with **simple syntax**.
+- Interpreted language with simple syntax.
 
----
-
-### 2️⃣ Set Up Python Environment
-- **Install Python** (latest version recommended: `3.x`)  
-  [Download from python.org](https://www.python.org/downloads/)
-- Install a **text editor or IDE**:
+#### 2. Set up Python Environment
+- Install Python (latest version recommended: **3.x**).
+- Install a text editor or IDE:
   - [VS Code](https://code.visualstudio.com/)
   - [PyCharm](https://www.jetbrains.com/pycharm/)
   - [Jupyter Notebook](https://jupyter.org/)
 
----
-
-### 3️⃣ Python Syntax Essentials
+#### 3. Python Syntax Essentials
 - **Variables & Data Types**: `int`, `float`, `string`, `bool`.
-- **Output**: Using `print()`.
-- **Input**: Using `input()`.
-- **Basic Arithmetic**:
+- Output with `print()`.
+- Input with `input()`.
+- Basic arithmetic:
   ```python
   +   # addition
   -   # subtraction

@@ -1,3 +1,10 @@
+# Agentic AI in Python — Step-by-Step Learning & Implementation
+
+This repository documents my **day-by-day journey** to mastering **Agentic AI in Python**.  
+I’m starting from the very basics and moving toward advanced concepts — sharing all examples so others can learn along with me.
+
+---
+
 ## 📅 Day 1: Python Basics — Introduction and Setup
 
 ### 🎯 Objectives

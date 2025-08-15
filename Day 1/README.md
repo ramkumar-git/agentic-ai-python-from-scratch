@@ -191,15 +191,17 @@ print("The sum is:", total_sum)
 ```bash
 mkdir agentic-ai-python      # Create project directory
 cd agentic-ai-python
-
 # Optional: Create and activate a virtual environment
 python -m venv .venv
 source .venv/bin/activate    # On Windows: .venv\Scripts\activate
-
 git init                     # Initialize git repository
 cp path/to/calculator.py .   # Place your script in the folder
-code .                       # Open in VS Code
 
+# 👉 Run your Python script
+python calculator.py
+
+# Then continue with Git steps
+code .                       # Open in VS Code
 git add calculator.py        # Stage your code
 git commit -m "Day 1: Python basics and calculator"
 ```

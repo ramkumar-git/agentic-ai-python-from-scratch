@@ -11,4 +11,6 @@ I’m starting from the very basics and moving toward advanced concepts — shar
 - Understand **what Python is** and why it’s used for AI.
 - **Set up** Python environment on your computer.
 - Learn **Python syntax basics**: variables, data types, input/output, and simple operations.
-- Write your **first Python program** (Addition.py).
+- Write your **first Python program** (calculator.py).
+
+---

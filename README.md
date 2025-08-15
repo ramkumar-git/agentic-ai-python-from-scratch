@@ -8,9 +8,12 @@ I’m starting from the very basics and moving toward advanced concepts — shar
 ## 📅 Day 1: Python Basics — Introduction and Setup
 
 ### 🎯 Objectives
-- Understand **what Python is** and why it’s used for AI.
-- **Set up** Python environment on your computer.
-- Learn **Python syntax basics**: variables, data types, input/output, and simple operations.
-- Write your **first Python program** (calculator.py).
+1. Installing Python 3.13 and Visual Studio Code
+2. Why Python for AI and Agentic Systems?
+3. Python Basic Syntax
+4. First Script: calculator.py
+5. Extended Calculator: More Operations
+6. Good Coding Style (PEP 8) \& Naming
+7. Git: Initialize and Commit Your Work
 
 ---

@@ -2,18 +2,18 @@
 
 ## Table of Contents
 
-- [1. Installing Python 3.13 and Visual Studio Code](#installing-python-313-and-visual-studio-code)
-- [2. Why Python for AI and Agentic Systems?](#why-python-for-ai-and-agentic-systems)
-- [3. Python Basic Syntax](#python-basic-syntax)
+- [1. Installing Python 3.13 and Visual Studio Code](#1-installing-python-313-and-visual-studio-code)
+- [2. Why Python for AI and Agentic Systems?](#2-why-python-for-ai-and-agentic-systems)
+- [3. Python Basic Syntax](#3-python-basic-syntax)
     - [Variables and Dynamic Typing](#variables-and-dynamic-typing)
     - [Print Statements](#print-statements)
     - [User Input](#user-input)
     - [Arithmetic Operators](#arithmetic-operators)
     - [Comments](#comments)
-- [4. First Script: calculator.py](#first-script-calculatorpy)
-- [5. Extended Calculator: More Operations](#extended-calculator-more-operations)
-- [6. Good Coding Style (PEP 8) \& Naming](#good-coding-style-pep-8--naming)
-- [7. Git: Initialize and Commit Your Work](#git-initialize-and-commit-your-work)
+- [4. First Script: calculator.py](#4-first-script-calculatorpy)
+- [5. Extended Calculator: More Operations](#5-extended-calculator-more-operations)
+- [6. Good Coding Style (PEP 8) \& Naming](#6-good-coding-style-pep-8--naming)
+- [7. Git: Initialize and Commit Your Work](#7-git-initialize-and-commit-your-work)
 
 ***
 

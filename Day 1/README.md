@@ -193,7 +193,7 @@ mkdir agentic-ai-python      # Create project directory
 cd agentic-ai-python
 # Optional: Create and activate a virtual environment
 python -m venv .venv
-source .venv/bin/activate    # On Windows: .venv\Scripts\activate
+.venv/bin/activate           # On Windows: .venv\Scripts\activate
 git init                     # Initialize git repository
 cp path/to/calculator.py .   # Place your script in the folder
 
